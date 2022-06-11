@@ -14,19 +14,3 @@
   background-image: url('/images/green.png');
   background-size: 100% 100%;
 }
-.blue-bg {
-  background-image: url('images/blue.png');
-  background-size: 100% 100%;
-}
-.pink-bg {
-  background-image: url('./images/pink.png');
-  background-size: 100% 100%;
-}
-.yellow-bg{
-  background-image: url('~/images/yellow.png');
-  background-size: 100% 100%;
-}
-.green-bg {
-  background-image: url('/images/green.png');
-  background-size: 100% 100%;
-}
