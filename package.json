@@ -1,0 +1,27 @@
+
+{
+  "name": "tailwind-assignment",
+  "version": "1.0.0",
+  "description": "Workshop with Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "npx tailwindcss -i ./input.css -o ./css/tailwind.css",
+    "dev": "npx tailwindcss -i ./input.css -o ./css/tailwind.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarbjeet7/WDDM121-tailwind-assignment.git"
+  },
+  "author": "Sarbjeet Kaur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarbjeet7/WDDM121-tailwind-assignment/issues"
+  },
+  "homepage": "https://sarbjeet7.github.io/WDDM121-tailwind-assignment/",
+
+  "devDependencies": {
+    "tailwindcss": "^3.1.1"
+  }
+}

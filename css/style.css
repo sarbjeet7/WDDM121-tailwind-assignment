@@ -1,0 +1,32 @@
+.bcg-blue {
+  background-image: url('img/blue.png');
+  background-size: 100% 100%;
+}
+.bcg-pink {
+  background-image: url('./img/pink.png');
+  background-size: 100% 100%;
+}
+.bcg-yellow {
+  background-image: url('~/img/yellow.png');
+  background-size: 100% 100%;
+}
+.bcg-green {
+  background-image: url('/img/green.png');
+  background-size: 100% 100%;
+}
+.blue-bg {
+  background-image: url('img/blue.png');
+  background-size: 100% 100%;
+}
+.pink-bg {
+  background-image: url('./img/pink.png');
+  background-size: 100% 100%;
+}
+.yellow-bg{
+  background-image: url('~/img/yellow.png');
+  background-size: 100% 100%;
+}
+.green-bg {
+  background-image: url('/img/green.png');
+  background-size: 100% 100%;
+}
